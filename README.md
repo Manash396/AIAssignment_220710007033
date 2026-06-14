@@ -1,5 +1,14 @@
 # Artificial Intelligence Assignment
 
+---
+
+## Student Details
+
+* Name: Manash Khatowal
+* Course: B.Tech (8th Semester CSE)
+* Subject: Artificial Intelligence
+* College: Jorhat Engineering College
+
 ## Project Overview
 
 This repository includes two implementations related to core AI concepts: Tic-Tac-Toe using Alpha-Beta Pruning and a study of the Hidden Markov Model. The work demonstrates applications of game theory, search algorithms, and probabilistic modeling.
@@ -68,18 +77,6 @@ AIAssignment_220710007033/
       |- Hidden_Makov_Model/
       |- TicTacToe_AlphaBetaPrunning/
 ```
-
----
-
-## Student Details
-
-* Name: Manash Khatowal
-* Course: B.Tech (8th Semester CSE)
-* Subject: Artificial Intelligence
-* College: Jorhat Engineering College
-
-
----
 
 ## Learning Outcomes
 
