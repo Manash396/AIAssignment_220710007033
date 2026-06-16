@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 11 15:51:25 2026
-
-@author: Bibun
-"""
 
 import numpy as np
 from typing import List, Tuple
